@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm 2004NChat 👋
 
-<!--
-**2004NChat/2004NChat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Pac-Man eating my commits
 
-Here are some ideas to get you started:
+![Pacman](https://github.com/2004NChat/2004NChat/blob/output/pacman-contribution-graph.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+- Student
+- Learning coding
+- Building projects
+- Growing daily
